@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### Repository Links 
 
 * [Sophos Teams Alerts](https://github.com/derekrjohnson/Sophos-Teams-Alerts)
-* [Jira VM Automation](https://github.com/derekrjohnson/Jira-VM-Automation).
-* [Mimecast Security Alerts](https://github.com/derekrjohnson/Mimecast-Teams-Alerts).
+* [Jira VM Automation](https://github.com/derekrjohnson/Jira-VM-Automation)
+* [Mimecast Security Alerts](https://github.com/derekrjohnson/Mimecast-Teams-Alerts)
 
 <p>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=derekrjohnson&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
