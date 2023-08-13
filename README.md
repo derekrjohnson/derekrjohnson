@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### Repository Links 
+
+* [Sophos Teams Alerts](https://github.com/derekrjohnson/Sophos-Teams-Alerts)
+* [Jira VM Automation](https://github.com/derekrjohnson/Jira-VM-Automation).
+* [Mimecast Security Alerts](https://github.com/derekrjohnson/Mimecast-Teams-Alerts).
 
 <p>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=derekrjohnson&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
