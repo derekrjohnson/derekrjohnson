@@ -1,7 +1,7 @@
 ## Hi there, I'm Derek 👋
 ### Click the link below to visit my Portfolio Page!!!
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://sites.google.com/view/derekjohnson])
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/derekjohnson)
 
 <!--
 **ChampPG/ChampPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
